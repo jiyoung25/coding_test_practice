@@ -83,8 +83,6 @@ public class Level1_DeckOfCards {
             else
                 return "No";
         }
-
-
         return "Yes";
     }
 }
